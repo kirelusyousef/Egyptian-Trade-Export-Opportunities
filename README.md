@@ -17,10 +17,11 @@ trade opportunities for further investigation.
     No. Team Member                          Role
   ----- ------------------------------------ -------------
       1 Kirelus Yousef Fathi Bishara         Team Leader
-      2 Salwa AbdElFattah AbdElMonaem Ali    Team Member
-      3 Marian Ragaee Maher Fahem            Team Member
-      4 Marwa Mohamed abd el aleem abozeid   Team Member
-      5 Nahla Hefny Mahmoud Ismail           Team Member
+      2 Beniamin Masoud Felemon Poktor       Team Member
+      3 Salwa AbdElFattah AbdElMonaem Ali    Team Member
+      4 Marian Ragaee Maher Fahem            Team Member
+      5 Marwa Mohamed abd el aleem abozeid   Team Member
+      6 Nahla Hefny Mahmoud Ismail           Team Member
 
 ## Work Plan
 
